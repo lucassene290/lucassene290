@@ -11,3 +11,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassene290)](https://github.com/lucassene290/github-readme-stats)
+
+
+Tecnologias que eu uso
