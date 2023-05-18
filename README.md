@@ -13,4 +13,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassene290)](https://github.com/lucassene290/github-readme-stats)
 
 
-Tecnologias que eu uso
+TECNOLOGIAS QUE EU USO
+
+<div style="display: inline_block">
+ <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ 
+ </div><br/>
+
+Esperança sem perseverança não significa nada!
